@@ -1,0 +1,4 @@
+1. npm install for node modules
+2. redux tool kit.
+3. react tostify
+4. react icons.
